@@ -22,6 +22,7 @@ Here are some ideas to get you started:
   - Use 3rd party AI services to make the application even more useful
   
 - 🌱 I’m currently learning ...
+  - Leetcode ([Link](https://leetcode.com/mlajkim/))
   - Linux & K8s
   - AI
   
