@@ -31,3 +31,10 @@ Here are some ideas to get you started:
   
 - ⚡ Fun fact: ...
   - I speak four languages, all business level fluency or higher.
+
+- 🕸️ Websites: ...
+  - 🟢 Running
+    - [Wordy V1](https://www.wordy-cloud.com)
+  - 🚧 Preparing
+    - [AJK Town Homepage](https://www.ajktown.com)
+    - [Wordnote (Wordy V2)](https://wordnote.ajktown.com)
