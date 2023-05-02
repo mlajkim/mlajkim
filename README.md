@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a `Security Platform Engineer` at `Line Yahoo Corp`, and my role involves automating the generation of certificates for the massive number of instances that run `Line Yahoo Corp`'s services.
+I am a `Security Platform Engineer` at `Line-Yahoo Corp`, and my role involves automating the generation of certificates for the massive number of instances that run `Line-Yahoo Corp`'s services.
 
 <!--
 **mlajkim/mlajkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
