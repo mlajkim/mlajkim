@@ -1,13 +1,9 @@
 ### Hi there 👋
 
-I am a `Security Platform Engineer` at `Line-Yahoo Corp`, and my role involves automating the generation of certificates for the massive number of instances that run `Line-Yahoo Corp`'s services.
+👨‍💻 I am a `Security Platform Engineer` at `Line-Yahoo Corp`, and my role involves ...
+- Automating the generation of certificates for the massive number of instances that run `Line-Yahoo Corp`'s services.
+- Developing security software that enables granular access control of the services above.
 
-- Personal Websites
-  - (In Dev) https://wordnote.ajktown.com
-    - FE: https://github.com/ajktown/wordnote
-    - API: https://github.com/ajktown/api
-    - DOC: https://github.com/ajktown/docs  
-  - (In Prod) https://wordy.ajktown.com
+🔥 I resolve a minimum of one algorithmic challenge daily, as you can see on [my LeetCode profile](https://leetcode.com/mlajkim/)!
 
-- Personal Algorithm Studies
-  - Leetcode: https://leetcode.com/mlajkim/
+🏋️ I enjoy staying active with regular workouts, bike rides, and walks!
