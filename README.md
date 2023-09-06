@@ -6,4 +6,6 @@
 
 🔥 I resolve a minimum of one algorithmic challenge daily, as you can see on [my LeetCode profile](https://leetcode.com/mlajkim/)!
 
+🥇 I am humbled to share my growing collection of [Credly badges](https://www.credly.com/users/mlajkim/badges).
+
 🏋️ I enjoy staying active with regular workouts, bike rides, and walks!
