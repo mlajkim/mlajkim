@@ -9,4 +9,4 @@
 
 🥇 I am humbled to share my growing collection of [Credly badges](https://www.credly.com/users/mlajkim/badges).
 
-🏋️ I enjoy staying active with regular workouts, bike rides, and walks!
+🏋️ I believe that [small, yet consistent daily commitment](https://consistency.ajktown.com/users/mlajkim) are the single most essential element for achieving and contributing more.
