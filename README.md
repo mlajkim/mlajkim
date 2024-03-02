@@ -9,4 +9,4 @@
 
 🥇 I am humbled to share my growing collection of [Credly badges](https://www.credly.com/users/mlajkim/badges).
 
-🏋️ I believe that [small, yet consistent daily commitments](https://consistency.ajktown.com/users/mlajkim) are the single most essential element for achieving and contributing more.
+⭐️ I believe that [small, yet consistent daily commitments](https://consistency.ajktown.com/users/mlajkim) are the single most essential element for achieving and contributing more.
