@@ -17,7 +17,7 @@ Security Engineer <a href="https://www.lycorp.co.jp/en/">@LY Corp</a> │ Polygo
   <a href="https://dev.to/mlajkim">
     <img src="https://img.shields.io/badge/dev.to: mlajkim-0A0A0A?style=flat&logo=dev.to&logoColor=white" alt="Dev.to Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/mlakim/">
+  <a href="https://www.linkedin.com/in/mlajkim/">
     <img src="https://img.shields.io/badge/LinkedIn: mlajkim-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:jkim67cloud@gmail.com">
