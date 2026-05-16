@@ -3,7 +3,7 @@
 
 <!-- Contact and keys -->
 <p align="center">
-Security Engineer <a href="https://www.lycorp.co.jp/en/">@LY Corp</a> │ Polygot │ Golfer | Fitness Enthusiast
+🤖 AI Security Researcher │ Security Engineer <a href="https://www.lycorp.co.jp/en/">@LY Corp</a> │ Polygot │ Golfer | Fitness Enthusiast
 </p>
 
 
