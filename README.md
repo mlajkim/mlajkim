@@ -25,5 +25,3 @@
   </a>
   </kbd>
 </p>
-
-[![Running mileage badge](https://raw.githubusercontent.com/mlajkim/dive-deep/main/proofs/cardio/cardio-mileage-badge.svg)](https://github.com/mlajkim/dive-deep/blob/main/README.diet-cardio.md)
